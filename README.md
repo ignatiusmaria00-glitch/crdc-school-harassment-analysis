@@ -47,5 +47,5 @@ The goal was to transform raw, aggregated public health and education data into 
 ├── data/
 │   └── Allegations-of-Harassment-or-Bullying.xlsx   # Main Excel Dataset
 ├── visuals/
-│   └── dashboard_stacked_chart.png                 # Final Chart Export
+│   └── dashboard_stacked_chart.jpeg                # Final Chart Export
 └── README.md                                        # Project Documentation
